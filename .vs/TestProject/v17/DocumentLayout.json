@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\andrew\\test\\TestProject\\",
+  "WorkspaceRootPath": "F:\\andrew\\RiskTransactionTron\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D3F2FD2-D8CC-4A36-AC9A-0FDEC4B8FB5C}|TestProject\\TestProject.csproj|f:\\andrew\\test\\testproject\\testproject\\checkrisktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D3F2FD2-D8CC-4A36-AC9A-0FDEC4B8FB5C}|TestProject\\TestProject.csproj|f:\\andrew\\risktransactiontron\\testproject\\checkrisktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D3F2FD2-D8CC-4A36-AC9A-0FDEC4B8FB5C}|TestProject\\TestProject.csproj|solutionrelative:testproject\\checkrisktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CheckRiskTransaction.cs",
-              "DocumentMoniker": "F:\\andrew\\test\\TestProject\\TestProject\\CheckRiskTransaction.cs",
+              "DocumentMoniker": "F:\\andrew\\RiskTransactionTron\\TestProject\\CheckRiskTransaction.cs",
               "RelativeDocumentMoniker": "TestProject\\CheckRiskTransaction.cs",
-              "ToolTip": "F:\\andrew\\test\\TestProject\\TestProject\\CheckRiskTransaction.cs",
+              "ToolTip": "F:\\andrew\\RiskTransactionTron\\TestProject\\CheckRiskTransaction.cs",
               "RelativeToolTip": "TestProject\\CheckRiskTransaction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
